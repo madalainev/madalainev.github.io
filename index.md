@@ -17,15 +17,6 @@ Brown University Library, Providence, RI – March 2018-present
 * Contribute to wider Library work, such as serving on the Strategic Planning Design Team, Labor Management Committee, and Party Committee 
 
 
-Providence Roller Derby, Providence, RI – December 2018-present
-
-**Director of Communications**
-* Manage and develop strategies for the organization’s website, social media, art direction, and marketing campaigns
-* Create digital art, photos, videos, and other content for social media and the web
-* Maintain PRD’s relationship with local sponsors, the media, and the City of Providence
-* Provide leadership for the Art, Marketing, Social Media, and Web Committees
-
-
 Hasbro, Inc., Providence, RI – February 2017-February 2018 
 
 **Digital Asset Administrator**
@@ -99,7 +90,16 @@ DLISSA Student Research Symposium – SJU Manhattan – April 23, 2016
 * Presentation with Marilyn Diliberti & Kevin Quinn – “Designing for Access with WordPress: A Collaboration with NCLA Archives”
 
 
-## Professional Service
+## Service
+
+Providence Roller Derby, Providence, RI – December 2018-present
+
+**Director of Communications**
+* Manage and develop strategies for the organization’s website, social media, art direction, and marketing campaigns
+* Create digital art, photos, videos, and other content for social media and the web
+* Maintain PRD’s relationship with local sponsors, the media, and the City of Providence
+* Provide leadership for the Art, Marketing, Social Media, and Web Committees
+
 
 DLISSA, ALA Student Chapter at St. John’s University
 
