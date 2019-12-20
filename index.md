@@ -1,6 +1,6 @@
 ## Education
 
-St. John’s University, Queens, NY | 
+St. John’s University, Queens, NY /  
 **Master of Science, Library and Information Science, January 2017**
 
 The George Washington University, Washington, DC | 
