@@ -1,9 +1,9 @@
 ## Education
 
-St. John’s University, Queens, NY /  
+St. John’s University, Queens, NY \
 **Master of Science, Library and Information Science, January 2017**
 
-The George Washington University, Washington, DC | 
+The George Washington University, Washington, DC \
 **Bachelor of Arts cum laude in Anthropology, January 2013**
 
 ## Relevant Experience
@@ -15,7 +15,7 @@ Brown University Library, Providence, RI | **Senior Library Specialist, Electron
 * Contribute to wider Library work, such as serving on the Strategic Planning Design Team, Labor Management Committee, and Party Committee 
 
 
-Hasbro, Inc., Providence, RI | **Digital Asset Administrator** | February 2017-February 2018 
+Hasbro, Inc., Providence, RI | **Digital Asset Administrator** | February 2017-February 2018
 * Managed Toy and Games digital assets through their lifecycle in Hasbro’s OTM-based digital asset management system by editing asset metadata on ingestion, coordinating with Global Brand Teams on reveal dates, assigning security policies based on IP-sensitivity, and archiving assets from past seasons 
 * Received and completed digital asset requests from global Hasbro teams by securely delivering available assets and requesting product images from Photo Studio team in China 
 * Identified and managed special projects that improve user experience and accessibility in Hasbro’s DAM system, such as migrating 20,000+ Brand Merchandising Toolkit assets to a new controlled vocabulary developed with the Global Brand and Digital Technology teams 
