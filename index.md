@@ -1,9 +1,9 @@
 ## Education
 
-St. John’s University, Queens, NY \
+St. John’s University, Queens, NY |
 **Master of Science, Library and Information Science, January 2017**
 
-The George Washington University, Washington, DC \
+The George Washington University, Washington, DC |
 **Bachelor of Arts cum laude in Anthropology, January 2013**
 
 ## Relevant Experience
