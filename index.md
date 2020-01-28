@@ -12,7 +12,7 @@ Brown University Library, Providence, RI | **Senior Library Specialist, Electron
 * Support the acquisition, access, and maintenance of the Library’s electronic resources and digital subscription content by coordinating a variety of knowledge management and discovery systems, vendor contacts, content providers, and library subject liaisons
 * Troubleshoot issues related to the Library’s electronic resources and train Library users and staff on access and discovery of digital content
 * Identify and track data on the Library’s eresources, including platform changes, renewals, usage statistics, and content provider updates, and communicate with Library users and staff about Library eresources
-* Contribute to wider Library work, such as serving on the Strategic Planning Design Team, Labor Management Committee, and Party Committee 
+* Contribute to wider Library work, such as serving on the Strategic Planning Design Team, Labor Management Committee, and Library Activity Committee 
 
 
 Hasbro, Inc., Providence, RI | **Digital Asset Administrator** | February 2017-February 2018
@@ -22,7 +22,7 @@ Hasbro, Inc., Providence, RI | **Digital Asset Administrator** | February 2017-F
 
 
 Division of Library and Information Science, SJU, Queens, NY | **Administrative Graduate Assistant** | Fall 2015-Fall 2016 
-* Managed a multiyear project updating and documenting the Division’s four WordPress websites to reflect new standards in web hosting, design, and administration 
+* Managed a multiyear project updating and documenting the Division’s four [WordPress websites](http://sjudlis.com) to reflect current standards in web hosting, design, and administration 
 * Acted as the student liaison between Division staff, faculty, my cohort, and the community by representing DLIS at professional and student events like conferences, meetings, and symposia 
 * Edited, wrote, and published the DLIS eNewsletter online each semester 
 
@@ -31,7 +31,7 @@ Citi Center for Culture + Queens Library, New York, NY | **Archives Fellow** | F
 * Evaluated, rehoused, and described corporate heritage materials at the Citi Center for Culture 
 * Contributed to the Queens Memory project by preparing descriptive metadata for images for publication on the web using CollectiveAccess CMS 
 * Created a six-month social media calendar for Queens Memory’s Facebook page using digital objects from the collection as inspiration for #TBT posts 
-* Collaboratively prepared an archival processing and preservation plan for The Floating Hospital, a New York NPO providing affordable healthcare, with the three other Fellows 
+* Collaboratively prepared an archival processing and preservation plan for [The Floating Hospital](http://queensmemory.org/floating-hospital), a New York-based non-profit providing affordable healthcare, with the three other Fellows 
 
 
 Whitney Museum of American Art, New York, NY | **Research Resources Intern** | Summer 2016
@@ -80,7 +80,7 @@ Providence Roller Derby, Providence, RI | **Director of Communications** | Decem
 * Manage and develop strategies for the organization’s website, social media, art direction, and marketing campaigns
 * Create digital art, photos, videos, and other content for social media and the web
 * Maintain PRD’s relationship with local sponsors, the media, and the City of Providence
-* Provide leadership for the Art, Marketing, Social Media, and Web Committees
+* Provide leadership for the Art, Marketing, Social Media, Street Team, and Web Committees
 
 
 DLISSA, ALA Student Chapter at St. John’s University | **Founder** | Fall 2015
