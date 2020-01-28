@@ -6,4 +6,4 @@ I am a digital content manager, designer, and librarian dedicated to providing s
 
 I earned my ALA-accredited Masters of Library and Information Science degree at St. John's University, Queens, New York, in January 2017. 
 
-I also use my skills in digital content management and design as the Director of Communications for Providence Roller Derby, a 501(3)c non-profit based in Providence, Rhode Island. I currently skate for PRD's Mob Squad under my pseudonym, the Black'nBlue Dahlia. 
+I also use my skills in digital content management and design as the Director of Communications for [Providence Roller Derby](http://providencerollerderby.com), a 501(3)c non-profit based in Providence, Rhode Island. I currently skate as #718 for PRD's Mob Squad under my pseudonym, the Black'nBlue Dahlia. 
