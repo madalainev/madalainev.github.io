@@ -4,4 +4,5 @@ github_username: madalainev
 description: madalainev@gmail.com | (774) 291-1168
 
 # Build settings
-theme: jekyll-theme-minimal
+markdown: kramdown
+theme: minima
