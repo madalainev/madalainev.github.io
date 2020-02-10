@@ -1,5 +1,7 @@
 ---
-layout: about
+layout: page
+title: about
+permalink: /about
 ---
 ## About
 
