@@ -1,7 +1,8 @@
 ---
-#CV
+# CV
 layout: home
 ---
+
 ## Education
 
 St. John’s University, Queens, NY |
