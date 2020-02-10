@@ -1,3 +1,7 @@
+---
+#Welcome
+layout: home
+---
 ## Education
 
 St. John’s University, Queens, NY |
