@@ -1,3 +1,8 @@
-theme: jekyll-theme-minima
+# Site settings
 title: Madalaine Vericker, MLIS
+github_username: madalainev
 description: madalainev@gmail.com | (774) 291-1168
+
+# Build settings
+markdown: kramdown
+theme: minima
