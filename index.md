@@ -1,6 +1,6 @@
 ---
-# CV
 layout: home
+title: CV
 ---
 
 ## Education
