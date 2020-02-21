@@ -11,7 +11,7 @@ St. John’s University, Queens, NY |
 The George Washington University, Washington, DC |
 **Bachelor of Arts cum laude in Anthropology, January 2013**
 
-## Relevant Experience
+## Library and Archives Experience
 
 Brown University Library, Providence, RI | **Senior Library Specialist, Electronic Resources** | March 2018-present
 * Support the acquisition, access, and maintenance of the Library’s electronic resources and digital subscription content by coordinating a variety of knowledge management and discovery systems, vendor contacts, content providers, and library subject liaisons
@@ -69,6 +69,14 @@ H. W. Wilson Foundation Professional Development Scholarship, awarded April 2016
 O’Connell Scholarship, awarded for four semesters, 2015-2016
 
 ## Professional Presentations
+
+ACRL New York Symposium – Baruch College – December 2, 2016 
+* Poster Presentation – “Power, Ethics and Corporate Sponsorship: Samsung Library, Yonsei University, Seoul, Korea” 
+
+
+New York Library Association Conference – Saratoga Springs – November 2-5, 2016 
+* Pecha Kucha Presentation with Sara Alcorn – “Designing for User Access: Taking the NCLA Archive Online”
+
 
 SUNY Librarians Association Conference – SUNY Binghamton – June 8-10, 2016
 * Poster Presentation – “The Student Project Problem: Identifying Opportunities for Use of Collections Digitized by LIS Students at St. John’s University”
