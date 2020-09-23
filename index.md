@@ -17,8 +17,7 @@ Brown University Library, Providence, RI | **Senior Library Specialist, Electron
 * Support the acquisition, access, and maintenance of the Library’s electronic resources and digital subscription content by coordinating a variety of knowledge management and discovery systems, vendor contacts, content providers, and library subject liaisons
 * Troubleshoot issues related to the Library’s electronic resources and train Library users and staff on access and discovery of digital content
 * Identify and track data on the Library’s eresources, including platform changes, renewals, usage statistics, and content provider updates, and communicate with Library users and staff about Library eresources
-* Contribute to wider Library work, such as serving on the Strategic Planning Design Team, Labor Management Committee, and Library Activity Committee 
-
+* Contribute to wider Library work, such as serving on the Strategic Planning Design Team, Library Activity Committee, Technical Services Documentation Review Team, and the Alma Planning and Preparation Project Working Group
 
 Hasbro, Inc., Providence, RI | **Digital Asset Administrator** | February 2017-February 2018
 * Managed Toy and Games digital assets through their lifecycle in Hasbro’s OTM-based digital asset management system by editing asset metadata on ingestion, coordinating with Global Brand Teams on reveal dates, assigning security policies based on IP-sensitivity, and archiving assets from past seasons 
@@ -89,7 +88,7 @@ DLISSA Student Research Symposium – SJU Manhattan – April 23, 2016
 
 ## Service
 
-Providence Roller Derby, Providence, RI | **Director of Communications** | December 2018-present
+Providence Roller Derby, Providence, RI | **Director of Communications** | December 2018-June 2020
 * Manage and develop strategies for the organization’s website, social media, art direction, and marketing campaigns
 * Create digital art, photos, videos, and other content for social media and the web
 * Maintain PRD’s relationship with local sponsors, the media, and the City of Providence
